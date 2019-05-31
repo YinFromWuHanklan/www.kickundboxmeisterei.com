@@ -16,3 +16,9 @@ p {
 .background {
     background-color: red;
 }
+
+
+/* Intro */
+.intro_height {
+    height: 400px;
+}
