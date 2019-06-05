@@ -3,12 +3,15 @@
 h1 {
     margin-top: 40px;
 }
+
 h2 {
     margin-top: 25px;
 }
+
 h3 {
     margin-top: 20px;
 }
+
 p {
     margin-top: 15px;
 }
@@ -16,9 +19,8 @@ p {
 .background {
     background-color: red;
 }
-
+.background2 {
+    background-color: blue;
+}
 
 /* Intro */
-.intro_height {
-    height: 400px;
-}
