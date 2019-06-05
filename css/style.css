@@ -24,3 +24,8 @@ p {
 }
 
 /* Intro */
+.background_intro {
+    background-image: url(../images/intro-marcus-hanke.jpg);
+    background-size: cover;
+    background-position: center center;
+}
