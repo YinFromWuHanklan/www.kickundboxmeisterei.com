@@ -17,22 +17,22 @@ p {
     margin-bottom: 0;
 }
 
-.background_blue_trans {
-    background-color: rgb(2, 54, 210, 0.5);
-}
-
 
 .text_box {
     padding: 40px;
 }
 
-
-
 /* Colors */
 
+.background_blue_trans {
+    background-color: rgb(2, 54, 210, 0.5);
+}
+.background_red {
+    background-color: rgb(231, 33, 77);
+}
 
 
-/* Intro */
+/* Images */
 
 .background_intro, 
 .background_training_1, 
@@ -68,6 +68,5 @@ p {
 /* Specials */
 .font_awesome {
     font-size: 80px;
-    color: #FFF;
     text-align: center;
 }
