@@ -59,9 +59,6 @@ p {
 }
 
 .background_meister {
-<<<<<<< HEAD
-    background-image: url(../images/der-meister-marcus-hanke.jpg);
-=======
     background-image: url(../images/intro-marcus-hanke.jpg);
 }
 
@@ -70,5 +67,4 @@ p {
 .font_awesome {
     font-size: 80px;
     text-align: center;
->>>>>>> 9ae1bef4c0f835c51af69fd47a361db80274decd
 }
