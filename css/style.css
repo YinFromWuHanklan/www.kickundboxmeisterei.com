@@ -1,41 +1,37 @@
 /* general */
 
-h1 {
-    margin-top: 40px;
-    font-family: 'Lobster', cursive;
-    font-weight: bold;
+html {
+    scroll-behavior: smooth;
 }
 
-h2 {
-    margin-top: 25px;
-    font-family: 'Lobster', cursive;
-}
-
+h1,
+h2,
 h3 {
-    margin-top: 20px;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 0;
 }
 
 p {
-    margin-top: 15px;
+    margin-top: 20px;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 0;
 }
 
-.background {
-    background-color: red;
+.text_box {
+    padding: 40px;
 }
-
-.background2 {
-    background-color: blue;
-}
-
-.container_main {
-    margin-top: 30px;
-    padding: 0 15px;
-}
-
 
 /* Colors */
 
-/* Intro */
+.background_blue_trans {
+    background-color: rgb(2, 54, 210, 0.5);
+}
+.background_red {
+    background-color: rgb(231, 33, 77);
+}
+
+
+/* Images */
 
 .background_intro, 
 .background_training_1, 
@@ -63,5 +59,16 @@ p {
 }
 
 .background_meister {
+<<<<<<< HEAD
     background-image: url(../images/der-meister-marcus-hanke.jpg);
+=======
+    background-image: url(../images/intro-marcus-hanke.jpg);
+}
+
+
+/* Specials */
+.font_awesome {
+    font-size: 80px;
+    text-align: center;
+>>>>>>> 9ae1bef4c0f835c51af69fd47a361db80274decd
 }
