@@ -22,10 +22,6 @@ p {
 }
 
 /* Colors */
-
-.background_blue_trans {
-    background-color: rgb(2, 54, 210, 0.5);
-}
 .background_red {
     background-color: rgb(231, 33, 77);
 }
@@ -51,7 +47,7 @@ p {
 }
 
 .background_training_2 {
-    background-image: url(../images/intro-marcus-hanke.jpg);
+    background-image: url(../images/kbm-training-2.jpg);
 }
 
 .background_vorteile {
@@ -59,15 +55,11 @@ p {
 }
 
 .background_meister {
-    background-image: url(../images/intro-marcus-hanke.jpg);
+    background-image: url(../images/der-meister-marcus-hanke.jpg);
 }
 
 
 /* Specials */
-.font_awesome {
-    font-size: 80px;
-    text-align: center;
-}
 
 .bg_opacity_wrapper {
     background-color: rgba(2, 54, 210, 0.7);
