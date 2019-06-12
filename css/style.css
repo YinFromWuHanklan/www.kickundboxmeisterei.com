@@ -25,6 +25,9 @@ p {
 .background_red {
     background-color: rgb(231, 33, 77);
 }
+.background_blue {
+    background-color: rgb(2, 54, 210);
+}
 
 
 /* Images */
